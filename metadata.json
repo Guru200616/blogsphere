@@ -1,0 +1,6 @@
+{
+  "name": "BlogSphere",
+  "description": "A production-ready full-stack Blogging Platform with RBAC, JWT authentication, a rich-text editor, nested comments, engagement metrics, responsive design, and deep admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
